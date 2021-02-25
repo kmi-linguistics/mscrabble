@@ -15,12 +15,12 @@ This repository contains the following directories -
 - In order to run the mobile application, you need an Android-based phone / tablet. You could install the apk and start playing.
 
 - For generator and running the Desktop version of the game, you need to install the following -
-⋅⋅* Python 3
-..* Flask [pip install Flask]
+  * Python 3
+  * Flask [pip install Flask]
 
 - For generator only, in addition to the above two, you will also need to setup the following -
-..* Apache Cordova [see instructions here](https://cordova.apache.org/docs/en/10.x/guide/cli/)
-..* Android Studio [see instructions here](https://developer.android.com/studio)
+  * Apache Cordova [see instructions here](https://cordova.apache.org/docs/en/10.x/guide/cli/)
+  * Android Studio [see instructions here](https://developer.android.com/studio)
 
 
 ## Video Instructions (for generator)
