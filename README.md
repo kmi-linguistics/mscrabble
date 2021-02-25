@@ -48,3 +48,7 @@ If you are using the generator or the game, please cite [this paper](https://com
 }
 
 ```
+
+## Contributors and Acknowledgments
+
+The code for the app has been written by Mr. Siddharth Singh, M.Sc. in Computational Linguistics at the Centre for Transdisciplinary Studies, Dr. Bhimrao Ambedkar University, Agra and the word lists for Koda and Mahali languages are provided by Dr. Bornini Lahiri, Assistant Professor, IIT-Kharagpur. Dr. Lahiri also conducted field studies with the members of these communities.
