@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {% block head %}
+        <title>mScrabble</title>
+        {% endblock %}
+    <link href="{{url_for('static', filename='index.css')}}" rel="stylesheet" />
+
+    </head>
+    
+    <body>
+        <div class="center" id="center">
+            <p id="heading">mScrabble</p>
+            <div class="langButton" id="langButton">
+            </div>
+                <button class="newLang" id="newLang">Add</button>
+        </div>
+        {% block content %}{% endblock %}
+        {% block scripts %}{% endblock %}
+
+        <script src="{{url_for('static', filename='jquery-3.5.1.min.js') }}"></script>
+        <script src="{{url_for('static', filename='index.js')}}"></script>
+        {% if langName is defined %}
+        <script type="text/javascript">myFunction({{ langName | tojson | safe }});</script>
+        {% endif %}
+
+    </body>
+</html>

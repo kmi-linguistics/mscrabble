@@ -1,0 +1,80 @@
+ * { padding: 0; margin: 0; }
+ canvas { background: #ffffff; display: block; margin: 0 auto; }
+ 
+ .center {
+  margin: auto;
+  line-height: 50px;
+  padding-top: 130px;
+  text-align: center;
+  }
+ 
+ #heading {
+  font-family: "Georgia", Times, serif;
+  font-size: 70px;
+  font-style: italic;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  margin-bottom: 10%;
+ }
+ 
+ label {
+  font-family: "Georgia", Times, serif;
+  font-size: 27px;
+  margin-left: 3%;
+ }
+ 
+ #language {
+  font-family: "Georgia", Times, serif;
+  font-size: 20px;
+  padding: 5px 5px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+  text-align: center;
+ }
+ 
+ #numberOfPlayers {
+  font-family: "Georgia", Times, serif;
+  font-size: 20px;
+  padding: 5px 5px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+  text-align: center;
+  margin-top: 3%;
+ }
+
+ #start {
+  width: auto;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  border-radius: 8px;
+  margin-left: 1%;
+  cursor: pointer;
+  margin-top: 5%;
+ }
+
+ .buttonLanguage, .newLang {
+  background-color: #4CAF50;
+  width: 130px;
+  height: 80px;
+  border: none;
+  color: white;
+  padding: 15px 15px 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 10px;
+  display: inline-block;
+  font-size: 30px;
+  border-radius: 8px;
+  margin-left: 1%;
+  cursor: pointer;
+  margin-top: 5%;
+}
+ 
