@@ -1,5 +1,4 @@
 # _mScrabble_
-======
 
 Inspired by English word game scrabble, _mScrabble_ (Multilingual Scrabble) is an online board game adapted and built for muliple languages. The game works for both mobile and desktop platforms.
 
@@ -12,31 +11,31 @@ This repository contains the following directories -
 
 
 ## Requirements and Installation
-======
+
 - In order to run the mobile application, you need an Android-based phone / tablet. You could install the apk and start playing.
 
 - For generator and running the Desktop version of the game, you need to install the following -
-⋅⋅- Python 3
-..- Flask [pip install Flask]
+⋅⋅* Python 3
+..* Flask [pip install Flask]
 
 - For generator only, in addition to the above two, you will also need to setup the following -
-..- Apache Cordova [see instructions here](https://cordova.apache.org/docs/en/10.x/guide/cli/)
-..- Android Studio [see instructions here](https://developer.android.com/studio)
+..* Apache Cordova [see instructions here](https://cordova.apache.org/docs/en/10.x/guide/cli/)
+..* Android Studio [see instructions here](https://developer.android.com/studio)
 
 
 ## Video Instructions (for generator)
-======
+
 For a step-by-step instruction on using the generator, please [visit this link](https://drive.google.com/file/d/1B0romtN_rKns2z31vimCavIi6UTO0ARi/view?usp=sharing)
 
 
 ## Contact
-======
+
 
 For any queries / help / suggestions / requests, you may send an email to this Google Group - `language-games@googlegroups.com`. You will need to join the group in order to post there. You may [join the group here](https://groups.google.com/forum/#!forum/language-games/join).
 
 
 ## Citation
-======
+
 If you are using the generator or the game, please cite [this paper](https://computel-workshop.org/wp-content/uploads/2021/02/2021.computel-2.3.pdf) -
 
 ```
