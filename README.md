@@ -5,6 +5,7 @@ Inspired by English word game scrabble, _mScrabble_ (Multilingual Scrabble) is a
 The primary focus of this project is to develop language technology specifically useful for endangered and minoritised languages. With this in mind, we also make available a browser-based generator for creating / generating the game for any language, given a list of words and a list of characters being used in writing the language.
 
 This repository contains the following directories -
+
 - mScrabble_games - this directory contains games already developed for four languages - Mahali, Koda (both are critically endangered Austro-Asiatic Languages spoken in Eastern Indian states of West Bengal and Jharkhand by a few hundred speakers), Hindi and English. We will soon be adding new minoritised Indian languages such as Magahi, Bhojpuri, Braj Bhasha, Awadhi, etc. Both the .apk and the desktop (server-based) versions of the game are included. In order to run the desktop version, just go into directory and do `flask run`. You will be able to run it on any browser using `localhost:5000` (see Installation instructions below for installing Flask).
 
 - mSrabble_generator - this is the main generator component. Please see below for instructions on generating the game in your language of choice.
@@ -48,6 +49,19 @@ If you are using the generator or the game, please cite [this paper](https://com
 }
 
 ```
+
+## Future Improvements
+
+- Improve the interface for sharing the list of new words.
+
+- Make the list of new words persistent in local storage.
+
+- Implement an interface for suggesting possible new words.
+
+- Add some animations.
+
+- Introduce different levels of difficulty in game playing.
+
 
 ## Contributors and Acknowledgments
 
