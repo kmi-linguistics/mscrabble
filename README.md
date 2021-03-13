@@ -6,7 +6,7 @@ The primary focus of this project is to develop language technology specifically
 
 This repository contains the following directories -
 
-- mScrabble_games - this directory contains games already developed for four languages - Mahali, Koda (both are critically endangered Austro-Asiatic Languages spoken in Eastern Indian states of West Bengal and Jharkhand by a few hundred speakers), Hindi and English. We will soon be adding new minoritised Indian languages such as Magahi, Bhojpuri, Braj Bhasha, Awadhi, etc. Both the .apk and the desktop (server-based) versions of the game are included. In order to run the desktop version, just go into directory and do `flask run`. You will be able to run it on any browser using `localhost:5000` (see Installation instructions below for installing Flask).
+- mScrabble_games - this directory contains games already developed for multiple languages - Mahali, Koda (both are critically endangered Austro-Asiatic Languages spoken in Eastern Indian states of West Bengal and Jharkhand by a few hundred speakers), Bhojpuri, Braj Bhasha, Magahi, Awadhi, Hindi and English. A demo version includes games of 4 languages. We are continuously looking to add new minoritised and endangered languages to the repository. Both the .apk and the desktop (server-based) versions of the game are included. In order to run the desktop version, just go into directory and do `flask run`. You will be able to run it on any browser using `localhost:5000` (see Installation instructions below for installing Flask).
 
 - mSrabble_generator - this is the main generator component. Please see below for instructions on generating the game in your language of choice.
 
