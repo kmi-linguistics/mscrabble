@@ -37,7 +37,7 @@ For any queries / help / suggestions / requests, you may send an email to this G
 
 ## Citation
 
-If you are using the generator or the game, please cite [this paper](https://computel-workshop.org/wp-content/uploads/2021/02/2021.computel-2.3.pdf) -
+If you are using the generator or the game, please cite [this paper](https://computel-workshop.org/wp-content/uploads/2021/03/2021.computel-2.3.pdf) -
 
 ```
 @INPROCEEDINGS {mscrabble2021,
